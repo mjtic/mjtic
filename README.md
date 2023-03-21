@@ -1,5 +1,9 @@
 <div id = "header" align = "center">
-  <img = src = "https://user-images.githubusercontent.com/114535797/226645515-4af6d14d-cda8-44aa-92fc-5ebf38e2b425.png">
+  <img src = "https://user-images.githubusercontent.com/114535797/226645515-4af6d14d-cda8-44aa-92fc-5ebf38e2b425.png">
+</div>
+
+<div id = "badges">
+  <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"> 
 </div>
 
 ### Hi there 👋

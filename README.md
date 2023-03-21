@@ -24,6 +24,15 @@ I am a fullstack web developer from Mckinney, TX.
  - 🌱 very passionate about self-growth, i have held various profession as welder, machine operator, production manager, assistant project manager.
  - ⚡ always admired co-workers with in-depth technical knowledge, and through coding I intent to become the subject matter expert that I desire. 
  - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mjtic-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/myeonghun-jeong-7b9193b4/)
+---
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"title="JavaScript" alt="JavaScript" width="40" height="40"/>
+  
+</div>
+
+
+
 
 <!--
 **mjtic/mjtic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

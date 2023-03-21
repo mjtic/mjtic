@@ -6,7 +6,7 @@
   <a href= "https://www.linkedin.com/in/myeonghun-jeong-7b9193b4/">
   <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"> 
   </a>
-  <img src="https://komarev.com/ghpvc/?username=mjtic&style=flat-square&color=blue" alt="views-counter"/>
+  <img align = "center" src="https://komarev.com/ghpvc/?username=mjtic&style=flat-square&color=blue" alt="views-counter"/>
 </div>
 
 ### Hi there 👋

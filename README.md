@@ -17,6 +17,14 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+---
+### 🏃‍♂️: ABOUT ME :
+I am a fullstack web developer from Mckinney, TX.
+ - 🔭 my coding journey began in 2022 due to my thirst of knowledge and self-enhancement.
+ - 🌱 very passionate about self-growth, i have held various profession as welder, machine operator, production manager, assistant project manager.
+ - ⚡ always admired co-workers with in-depth technical knowledge, and through coding I intent to become the subject matter expert that I desire. 
+ - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/myeonghun-jeong-7b9193b4/)
+
 <!--
 **mjtic/mjtic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

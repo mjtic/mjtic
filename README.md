@@ -37,8 +37,8 @@ I am a fullstack web developer from Mckinney, TX.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   
 </div>
----
 
+---
 ### 🎆 My Stats:
 <div>
 [![GitHub Streak](https://streak-stats.demolab.com?user=mjtic&theme=highcontrast&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)

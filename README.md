@@ -39,8 +39,8 @@ I am a fullstack web developer from Mckinney, TX.
 </div>
 ---
 ### 🎆 My Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mjtic&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjtic&layout=compact&theme=vision-friendly-dark)](https://github.com/mjtic/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mjtic&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 
 

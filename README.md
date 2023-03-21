@@ -7,12 +7,13 @@
   <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"> 
   </a>
   <img src="https://komarev.com/ghpvc/?username=mjtic&style=flat-square&color=blue" alt="views-counter"/>
-</div>
-
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+</div>
+
+
 <!--
 **mjtic/mjtic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

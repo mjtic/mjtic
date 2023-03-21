@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=mjtic&style=flat-square&color=blue" alt="views-counter"/>
 <h1>
   hey there
-  <img src="https://user-images.githubusercontent.com/114535797/226653115-c43442e5-7eba-4352-b16a-c668c6d5bfe7.png" width="30px"/>
+  <img src="![image](https://user-images.githubusercontent.com/114535797/226653620-5bb2a66f-df2b-4470-9d43-6200b914a825.png)" width="30px"/>
 </h1>
 </div>
 

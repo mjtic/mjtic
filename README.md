@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/114535797/226653976-81d22b2b-b518-499e-b165-e490c94ddd3e.png
+  <img src="![image](https://user-images.githubusercontent.com/114535797/226654179-aecd1fba-89e5-48e4-b761-c3a8ce552236.png)
 " width="600" height="300"/>
 </div>
 

@@ -9,10 +9,13 @@
   <img src="https://komarev.com/ghpvc/?username=mjtic&style=flat-square&color=blue" alt="views-counter"/>
 <h1>
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://user-images.githubusercontent.com/114535797/226653115-c43442e5-7eba-4352-b16a-c668c6d5bfe7.png" width="30px"/>
 </h1>
 </div>
 
+<div align="center">
+  <img src=" width="600" height="300"/>
+</div>
 
 <!--
 **mjtic/mjtic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

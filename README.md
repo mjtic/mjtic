@@ -48,6 +48,7 @@ I am a fullstack web developer from Mckinney, TX.
 <a href="http://www.github.com/mjtic"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mjtic&stroke=ffffff&background=181824&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="http://www.github.com/mjtic"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mjtic&bg_color=181824&color=ffffff&line=22c55e&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjtic&layout=compact&theme=vision-friendly-dark)](https://github.com/mjtic/github-readme-stats)
 
 
 
